@@ -1,4 +1,4 @@
-const socket = new WebSocket('ws://localhost:8080'); // Replace this with the correct WebSocket server URL
+const socket = new WebSocket("wss://websocketserv-hcod.vercel.app/");
         const videoPlayer = document.getElementById('videoPlayer');
 
         // Handle connection to WebSocket server
