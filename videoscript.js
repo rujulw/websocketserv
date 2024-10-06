@@ -1,4 +1,4 @@
-const socket = new WebSocket("wss://websocketserv-hcod.vercel.app/");
+const socket = new WebSocket("wss://websocketserv-hcod-rujuls-projects-4fac73ff.vercel.app/");
         const videoPlayer = document.getElementById('videoPlayer');
 
         // Handle connection to WebSocket server
